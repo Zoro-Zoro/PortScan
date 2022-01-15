@@ -1,6 +1,8 @@
-##PortScanning🚪
+<h2>PortScanning 🚪</h2>
+<br><hr><br>
 
 ```python
+#python2 portscanner.py
 import socket
 
 ip = raw_input('ip > ')
